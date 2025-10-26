@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8853aa4-b8ea-41cc-9591-4de3f2591c96" name="Changes" comment="edit view and text">
-      <change afterPath="$PROJECT_DIR$/app/(tabs)/onboarding.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(tabs)/wallet.tsx" afterDir="false" />
+    <list default="true" id="e8853aa4-b8ea-41cc-9591-4de3f2591c96" name="Changes" comment="ีdesign ui">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/explore.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/modal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/external-link.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/hello-wave.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/parallax-scroll-view.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/collapsible.tsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +90,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="npm.android">
+  <component name="RunManager" selected="npm.web">
     <configuration name="android" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -148,7 +154,7 @@
       <updated>1761488598180</updated>
       <workItem from="1761488599361" duration="429000" />
       <workItem from="1761489049054" duration="2940000" />
-      <workItem from="1761492023773" duration="613000" />
+      <workItem from="1761492023773" duration="1663000" />
     </task>
     <task id="LOCAL-00001" summary="dff">
       <option name="closed" value="true" />
@@ -190,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761490822407</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ีdesign ui">
+      <option name="closed" value="true" />
+      <created>1761492885836</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761492885836</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +233,7 @@
     <MESSAGE value="firstd" />
     <MESSAGE value="firstdf" />
     <MESSAGE value="edit view and text" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit view and text" />
+    <MESSAGE value="ีdesign ui" />
+    <option name="LAST_COMMIT_MESSAGE" value="ีdesign ui" />
   </component>
 </project>
