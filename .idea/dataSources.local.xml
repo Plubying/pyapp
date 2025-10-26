@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="WS-252.26830.93">
+    <data-source name="@localhost" uuid="c93a1e81-77a6-4808-8b41-6df2933b613d">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MONGO" />
+      <secret-storage>master_key</secret-storage>
+      <schema-mapping />
+    </data-source>
+    <data-source name="@localhost [mySql]" uuid="2be34a6d-2f15-4ec2-a6b1-42bcc2b2e401">
+      <database-info product="MySQL" version="8.3.0" jdbc-version="4.2" driver-name="MySQL Connector/J" driver-version="mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)" dbms="MYSQL" exact-version="8.3.0" exact-driver-version="8.2">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+        <jdbc-catalog-is-schema>true</jdbc-catalog-is-schema>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema">
+            <name qname="@" />
+            <name qname="private2" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>
